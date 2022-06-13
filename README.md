@@ -1,7 +1,7 @@
 # This is my quality of life journal
 
-[Goals](http://marlonmikami.github.io/journal/goals)
+[Goals](goals.md)
 
-[Workout](http://marlonmikami.github.io/journal/workout)
+[Workout](workout.md)
 
-[Nutrition](http://marlonmikami.github.io/journal/nutrition)
+[Nutrition](nutrition.md)
