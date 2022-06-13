@@ -4,6 +4,7 @@ Two day split repeated twice a week, with three days of rest.
 ## Day one (mondays and thursdays)
 * Chin-ups
 * Push ups
+
 ## Day two (tuesdays and fridays)
 * Abs rollers
 * Squats
