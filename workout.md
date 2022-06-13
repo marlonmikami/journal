@@ -1,11 +1,11 @@
 # WORKOUT
 
 Two day split repeated twice a week, with three days of rest.
-## Day one (mondays and thursdays)
+## Day one (monday/thursday)
 * Chin-ups
 * Push ups
 
-## Day two (tuesdays and fridays)
+## Day two (tuesday/friday)
 * Abs rollers
 * Squats
 
