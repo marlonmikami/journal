@@ -6,4 +6,6 @@
 
 [Nutrition](nutrition.md)
 
+[Routine](routine.md)
+
 [Workout](workout.md)
