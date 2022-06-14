@@ -1,4 +1,4 @@
-# Ottermode body examples
+# Ottermode examples
 
 ![ottermode1](/resources/ottermode1.jpg)
 
