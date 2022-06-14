@@ -1,6 +1,7 @@
 # GOALS
 ## This week:
 * Read the easy peasy method
+* Invite someone to go out
 
 ## This month:
 * Get my running man to look smooth
