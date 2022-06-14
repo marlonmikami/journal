@@ -7,7 +7,7 @@
 * Get my running man to look smooth
 
 ## This year:
-* Ottermode body with visible abs
+* [Ottermode](ottermode.md) body with visible abs
 * Go out just to dance somewhere
 
 ## In 5 years:
