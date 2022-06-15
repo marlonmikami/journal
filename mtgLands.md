@@ -1,6 +1,6 @@
 # LANDS
 
-## Fetch Lands:
+## Fetch Lands
 - [ ] WU - Flooded Strand
 - [ ] UB - Polluted Delta
 - [ ] BR - Bloodstained Mire
@@ -12,7 +12,7 @@
 - [ ] RW - Arid Mesa
 - [ ] GU - Misty Rainforest
 
-## Shock lands:
+## Shock lands
 - [ ] WU - Hallowed Fountain
 - [ ] UB - Watery Grave
 - [x] BR - Blood Crypt
@@ -24,7 +24,7 @@
 - [x] RW - Sacred Foundry
 - [ ] GU - Breeding Pool
 
-## Slow lands:
+## Slow lands
 - [ ] WU - Deserted Beach
 - [ ] UB - Shipwreck Marsh
 - [ ] BR - Haunted Ridge
@@ -36,7 +36,7 @@
 - [x] RW - Sundown Pass
 - [ ] GU - Dreamroot Cascade
 
-## Check lands:
+## Check lands
 - [x] WU - Glacial Fortress
 - [ ] UB - Drowned Catacomb
 - [x] BR - Dragonskull Summit
@@ -48,7 +48,7 @@
 - [x] RW - Clifftop Retreat
 - [ ] GU - Hinterland Harbor
 
-## Pain Lands:
+## Pain Lands
 - [ ] WU - Adarkar Wastes
 - [ ] UB - Underground River
 - [x] BR - Sulfurous Springs
@@ -60,7 +60,7 @@
 - [x] RW - Battlefield Forge
 - [x] GU - Yavimaya Coast  
 
-## Bond Lands:
+## Bond Lands
 - [ ] WU - Sea of Clouds
 - [ ] UB - Morphic Pool
 - [x] BR - Luxury Suite
@@ -72,7 +72,7 @@
 - [x] RW - Spectator Seating
 - [ ] GU - Rejuvenating Springs
 
-## Man lands:
+## Man lands
 - [x] WU - Celestial Colonnade
 - [x] UB - Creeping Tar Pit
 - [x] BR - Lavaclaw Reaches
@@ -84,7 +84,7 @@
 - [x] RW - Needle Spires
 - [x] GU - Lumbering Falls
 
-## Scry Lands:
+## Scry Lands
 - [x] WU - Temple of Enlightenment
 - [x] UB - Temple of Deceit
 - [x] BR - Temple of Malice
@@ -96,7 +96,7 @@
 - [x] RW - Temple of Triumph
 - [x] GU - Temple of Mystery
 
-## Reveal Lands:
+## Reveal Lands
 - [x] WU - Port Town
 - [x] UB - Choked Estuary
 - [x] BR - Foreboding Ruins
@@ -108,7 +108,7 @@
 - [ ] WB - Shineshadow Snarl
 - [ ] BG - Necroblossom Snarl
 
-## Snow Dual Lands:
+## Snow Dual Lands
 - [x] WU - Glacial Floodplain
 - [x] UB - Ice Tunnel
 - [x] BR - Sulfurous Mire
@@ -120,14 +120,14 @@
 - [x] RW - Alpine Meadow
 - [x] GU - Rimewood Falls
  
-## Signet Lands:
+## Signet Lands
 - [ ] WU - Skycloud Expanse
 - [ ] UB - Darkwater Catacombs
 - [x] BR - Shadowblood Ridge
 - [ ] RG - Mossfire Valley
 - [x] GW - Sungrass Prairie
  
-## Filter Lands:
+## Filter Lands
 - [ ] WU - Mystic Gate
 - [ ] UB - Sunken Ruins
 - [ ] BR - Graven Cairns
@@ -139,7 +139,7 @@
 - [ ] RW - Rugged Prairie
 - [ ] GU - Flooded Grove
 
-## Bounce Lands:
+## Bounce Lands
 - [x] WU - Azorius Chancery
 - [x] UB - Dimir Aqueduct
 - [x] BR - Rakdos Carnarium
@@ -151,14 +151,14 @@
 - [x] RW - Boros Garrison
 - [x] GU - Simic Growth Chamber
 
-## Lifegain Lands 1:
+## Lifegain Lands 1
 - [x] WU - Sejiri Refuge
 - [x] UB - Jwar Isle Refuge
 - [x] BR - Akoum Refuge
 - [x] RG - Kazandu Refuge
 - [x] GW - Graypelt Refuge
 
-## Lifegain Lands 2:
+## Lifegain Lands 2
 - [x] WU - Tranquil Cove
 - [x] UB - Dismal Backwater
 - [x] BR - Bloodfell Caves
@@ -170,7 +170,7 @@
 - [x] RW - Wind-Scarred Crag
 - [x] GU - Thornwood Falls
 
-## Guildgates:
+## Guildgates
 - [x] WU - Azorius Guildgate
 - [x] UB - Dimir Guildgate
 - [x] BR - Rakdos Guildgate
@@ -182,7 +182,7 @@
 - [x] RW - Boros Guildgate
 - [x] GU - Simic Guildgate
 
-## Modal Double Faced Lands:
+## Modal Double Faced Lands
 - [ ] WU - Hengegate Pathway
 - [ ] UB - Clearwater Pathway
 - [ ] BR - Blightstep Pathway
@@ -194,7 +194,7 @@
 - [ ] RW - Needleverge Pathway
 - [x] GU - Barkchannel Pathway  
 
-## Tap Lands:
+## Tap Lands
 - [x] WU - Meandering River
 - [x] UB - Submerged Boneyard
 - [x] BR - Cinder Barrens
@@ -206,7 +206,7 @@
 - [x] RW - Stone Quarry
 - [x] GU - Woodland Stream
 
-## Artifact Dual Lands:
+## Artifact Dual Lands
 - [x] WU - Razortide Bridge
 - [x] UB - Mistvault Bridge
 - [x] BR - Drossforge Bridge
@@ -218,48 +218,48 @@
 - [x] RW - Rustvale Bridge
 - [x] GU - Tanglepool Bridge
 
-## Byclicle lands:
+## Byclicle lands
 - [x] WU - Irrigated Farmland
 - [ ] UB - Fetid Pools
 - [x] BR - Canyon Slough
 - [ ] RG - Sheltered Thicket
 - [x] GW - Scattered Groves
  
-## Battle Lands:
+## Battle Lands
 - [x] WU - Prairie Stream
 - [x] UB - Sunken Hollow
 - [x] BR - Smoldering Marsh
 - [x] RG - Cinder Glade
 - [x] GW - Canopy Vista
  
-## Slow Fetch Lands:
+## Slow Fetch Lands
 - [x] WU - Flood Plain
 - [ ] UB - Bad River
 - [x] BR - Rocky Tar Pit
 - [x] RG - Mountain Valley
 - [x] GW - Grasslands
  
-## Campus Lands:
+## Campus Lands
 - [x] WB - Silverquill Campus
 - [x] UR - Prismari Campus
 - [x] BG - Witherbloom Campus
 - [x] RW - Lorehold Campus
 - [x] GU - Quandrix Campus
 
-## Thriving Lands:
+## Thriving Lands
 - [x] W - Thriving Heath
 - [x] U - Thriving Isle
 - [x] B - Thriving Moor
 - [x] R - Thriving Bluff
 - [x] G - Thriving Grove
 
-## Tainted Lands:
+## Tainted Lands
 - [x] WB - Tainted Field
 - [ ] UB - Tainted Isle
 - [x] BR - Tainted Peak
 - [x] BG - Tainted Wood
  
-## Triple Lands:
+## Triple Lands
 - [x] GWU - Seaside Citadel
 - [x] WUB - Arcane Sanctum
 - [x] UBR - Crumbling Necropolis
