@@ -7,7 +7,7 @@
 ## Finished stuff
 * [Anime & Series](finishedAnime.md)
 * [Books](finishedBooks.md)
-* [Games](FinishedGames.md)
+* [Games](finishedGames.md)
 * [Manga](finishedManga.md)
 
 ## Dancing
