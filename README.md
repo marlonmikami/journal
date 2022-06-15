@@ -2,6 +2,8 @@
 
 [Beauty](beauty.md)
 
+[Fun](fun.md)
+
 [Goals](goals.md)
 
 [Nutrition](nutrition.md)
