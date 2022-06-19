@@ -6,6 +6,8 @@
 
 [Goals](goals.md)
 
+[Identity](identity.md)
+
 [Nutrition](nutrition.md)
 
 [Routine](routine.md)
