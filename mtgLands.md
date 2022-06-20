@@ -24,6 +24,18 @@
 - [x] RW - Sacred Foundry
 - [ ] GU - Breeding Pool
 
+## Triomes
+- [x] GWU - Spara's Headquarters
+- [ ] WUB - Raffine's Tower
+- [ ] UBR - Xander's Lounge
+- [ ] BRG - Ziatora's Proving Ground
+- [ ] RGW - Jetmir's Garden
+- [ ] WBG - Indatha Triome
+- [ ] URW - Raugrin Triome
+- [ ] BGU - Zagoth Triome
+- [x] RWB - Savai Triome
+- [ ] GUR - Ketria Triome
+
 ## Slow lands
 - [ ] WU - Deserted Beach
 - [ ] UB - Shipwreck Marsh
