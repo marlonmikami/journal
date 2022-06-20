@@ -1,7 +1,7 @@
 # DECKS
 
 ## Commander
-* Bruna, Light of Alabaster
+* [Bruna, Light of Alabaster](https://archidekt.com/decks/918807)
 * Esika, God of the Tree
 * Glissa, the Traitor
 * Karametra, God of Harvests
