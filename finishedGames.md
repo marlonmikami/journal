@@ -130,3 +130,4 @@
 * Haven
 * Hollow Knight
 * Outer Worlds
+* Yoku's Island Express
