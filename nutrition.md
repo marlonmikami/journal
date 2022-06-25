@@ -10,5 +10,10 @@ A **high protein** diet is necessary for muscle building, so have eggs or meat w
 * Fish, Red meat
 * Cheese, Grapes
 
+## Alcohol:
+Alcohol is to be used only when socializing and it must be planned around. You shouldn't have alcohol at home unless you are inviting people over.
+If you drink, there's a good chance that you'l also overeat as well, so fasting on that day you plan on drinking is probably a good idea.
+The closer a beverage is to being pure alcohol, the less calories it has. Vodka based drinks are prefered.
+
 ## Recipes:
 * To-do
