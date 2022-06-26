@@ -1,7 +1,7 @@
 # LANDS
 
 ## Fetch Lands
-- [ ] WU - Flooded Strand
+- [x] WU - Flooded Strand (Lalinho)
 - [ ] UB - Polluted Delta
 - [ ] BR - Bloodstained Mire
 - [ ] RG - Wooded Foothills
