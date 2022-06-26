@@ -16,10 +16,3 @@
 ## Others
 * [Beauty](beauty.md)
 * [Fun](fun.md)
-
-
-
-<!--- 
-[Identity](identity.md)
-[Goals](goals.md)
-
