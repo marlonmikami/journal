@@ -1,14 +1,16 @@
 # WORKOUT
 
 Two day split repeated twice a week, with three days of rest.
-## Day one (monday/thursday)
+## Day one (mon/thu)
 * Chin-ups
 * Push ups
 
-## Day two (tuesday/friday)
+## Day two (tue/fri)
 * Abs rollers
 * Squats
 
+## Rest (wed/sat/sun)
+* Walk 10k steps
 
 Perform **drop sets** (Start the workout with the most dificult variation you can do an adequate number of reps, change to an easier variation upon failure)
 <br>
