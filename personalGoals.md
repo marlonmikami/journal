@@ -1,14 +1,14 @@
 # PERSONAL GOALS
 
 ## Sex
-* Jailbait
-* FFM Threesome
+- [ ] Jailbait
+- [ ] Milf
+- [ ] FFM Threesome
+- [ ] Public sex
 
 ## Traveling
-* Gramado
-* Rota das Emoções
-* Jericoacoara, Ceará
-* Lençóis Maranhenses
-* Costa dos corais
-* Vale dos Vinhedos
-* Mongolia
+- [ ] Gramado
+- [ ] Rota das Emoções (Jeri, Delta, Lençóis)
+- [ ] Costa dos corais
+- [ ] Vale dos Vinhedos
+- [ ] Mongolia
