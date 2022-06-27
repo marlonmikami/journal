@@ -3,26 +3,32 @@ Split based on two diferent days of exercises, with two variations each, plus a 
 
 Three workouts per muscle group a week, two sets per exercise, two rest days.
 
-## Monday
-* Chin ups
-* Squats
+## Week
+* Mon: Day 1 A
+* Tue: Day 2 A
+* Wed: Day 1 B
+* Thu: Day 2 B
+* Fri: Rest
+* Sat: Full body
+* Sun: Rest
 
-## Tuesday
-* Ab roller
-* Push ups
+## Day 1
+* Variation **A**:  
+  - Chin ups 
+  - Squats
+* Variation **B**:  
+  - Pull ups
+  - Reverse lunges
 
-## Wednesday
-* Pull ups
-* Reverse lunges
+## Day 2
+* Variation **A**:  
+  - Ab roller
+  - Push ups 
+* Variation **B**:  
+  - Bicycle crunch
+  - Dips
 
-## Thursday
-* Bicycle crunch
-* Dips
-
-## Friday
-* Rest day
-
-## Saturday
+## Full body
 * Chin ups
 * Push ups
 * Dips
@@ -30,6 +36,3 @@ Three workouts per muscle group a week, two sets per exercise, two rest days.
 * Reverse Lunges
 * Ab roller
 * Bicycle crunch
-
-## Sunday
-* Active rest (10k steps)
