@@ -2,6 +2,13 @@
 
 ## Morning:
 1. Wake up at 8
-2. Meditate
-3. Work out
-4. Gratitude journaling
+2. Meditate up to 8:10
+3. [Work out](workout.md)
+4. Protein shake
+5. Work
+
+## Evening
+
+## Night
+
+
