@@ -12,6 +12,10 @@
 * [Career and finances](careerGoals.md)
 * [Personal](personalGoals.md)
 
+## Plans
+* [Career and finances](careerPlans.md)
+* [Personal](personalPlans.md)
+
 ## Others
 * [Beauty](beauty.md)
 * [Fun](fun.md)
