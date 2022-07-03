@@ -19,3 +19,4 @@
 ## Others
 * [Beauty](beauty.md)
 * [Fun](fun.md)
+* [Problems](problems.md)
