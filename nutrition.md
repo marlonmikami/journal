@@ -2,7 +2,11 @@
 
 A **high protein** diet is necessary for muscle building, so have eggs or meat with every meal.
 
-**Calorie allowance**: Don't spend your calorie allowence in things that bring little fulfillment, save it for a really nice meal that you'll deeply enjoy instead, preferably one in a social situation. 
+**Calorie allowance**: Don't spend your calorie allowence in things that bring little fulfillment, save it for a really nice meal that you'll deeply enjoy instead, preferably one in a social situation.
+
+You are more likely to pig out during dinner, so just accept that and eat light during lunch and breakfast.
+
+[Calories](calories.md)
 
 ## High Satiety foods:
 * Boiled Potatos
