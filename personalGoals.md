@@ -7,7 +7,7 @@
 - [ ] Public sex
 
 ## Traveling
-- [ ] Ilha do Mel (Mâe)
+- [ ] Ilha do Mel
 - [ ] Gramado
 - [ ] Rota das Emoções (Jeri, Delta, Lençóis)
 - [ ] Costa dos corais
