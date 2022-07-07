@@ -9,7 +9,8 @@
 ## Traveling
 - [ ] Ilha do Mel
 - [ ] Gramado
-- [ ] Rota das Emoções (Jeri, Delta, Lençóis)
-- [ ] Costa dos corais
+- [ ] Lençóis Maranhences (Mãe)
+- [ ] Jericoacoara (Mãe)
+- [ ] Costa dos corais (Mãe)
 - [ ] Vale dos Vinhedos
 - [ ] Mongolia
