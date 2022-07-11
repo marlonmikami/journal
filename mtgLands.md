@@ -1,13 +1,13 @@
 # LANDS
 
 ## Fetch Lands
-- [x] WU - Flooded Strand (Lalinho)
+- [x] WU - Flooded Strand
 - [ ] UB - Polluted Delta
 - [ ] BR - Bloodstained Mire
 - [ ] RG - Wooded Foothills
 - [ ] GW - Windswept Heath
 - [ ] WB - Marsh Flats
-- [ ] UR - Scalding Tarn
+- [ ] UR - Scalding Tarn (Comprar com o Lalinho)
 - [ ] BG - Verdant Catacombs
 - [ ] RW - Arid Mesa
 - [ ] GU - Misty Rainforest
