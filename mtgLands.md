@@ -28,8 +28,8 @@
 - [x] GWU - Spara's Headquarters
 - [ ] WUB - Raffine's Tower
 - [ ] UBR - Xander's Lounge
-- [ ] BRG - Ziatora's Proving Ground
-- [ ] RGW - Jetmir's Garden
+- [x] BRG - Ziatora's Proving Ground
+- [x] RGW - Jetmir's Garden
 - [ ] WBG - Indatha Triome
 - [ ] URW - Raugrin Triome
 - [ ] BGU - Zagoth Triome
@@ -77,7 +77,7 @@
 - [ ] UB - Morphic Pool
 - [x] BR - Luxury Suite
 - [ ] RG - Spire Garden
-- [ ] GW - Bountiful Promenade
+- [x] GW - Bountiful Promenade
 - [ ] WB - Vault of Champions
 - [ ] UR - Training Center
 - [ ] BG - Undergrowth Stadium
