@@ -1,5 +1,3 @@
-# This is my quality of life journal
-
 ## Health
 * [Nutrition](nutrition.md)
 * [Routine](routine.md)
